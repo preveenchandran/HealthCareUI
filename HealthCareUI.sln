@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCareUI", "HealthCareUI\HealthCareUI.csproj", "{7D2EBD8F-C7F7-4E1D-B002-A0916B4A2A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCareUI.Tests", "HealthCareUI.Tests\HealthCareUI.Tests.csproj", "{E45F3EC0-0E97-4CA2-A639-A4F934212994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D2EBD8F-C7F7-4E1D-B002-A0916B4A2A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2EBD8F-C7F7-4E1D-B002-A0916B4A2A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2EBD8F-C7F7-4E1D-B002-A0916B4A2A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2EBD8F-C7F7-4E1D-B002-A0916B4A2A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45F3EC0-0E97-4CA2-A639-A4F934212994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45F3EC0-0E97-4CA2-A639-A4F934212994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45F3EC0-0E97-4CA2-A639-A4F934212994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45F3EC0-0E97-4CA2-A639-A4F934212994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47CF2F8A-44E1-475B-B6CE-F0A9D665BD47}
+	EndGlobalSection
+EndGlobal
